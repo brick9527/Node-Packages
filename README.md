@@ -1,2 +1,143 @@
 # Node-Packages
 Node各类包、工具的汇总黄页
+
+## 框架
+
+### 应用框架
+
+- [Egg](https://github.com/eggjs/egg)
+- [Koa](https://github.com/koajs/koa)
+- [Express](https://github.com/expressjs/express)
+- [Hapi](https://github.com/hapijs/hapi)
+- [midway](https://github.com/midwayjs/midway)
+
+一款微服务框架
+
+- [Nest](https://github.com/nestjs/nest)
+
+一款基于TS的服务器端框架
+
+### 游戏框架
+
+- [pomelo](https://github.com/NetEase/pomelo)
+
+## 工具
+
+### 网络
+
+- [axios](https://github.com/axios/axios)
+- [lib-qqwry](https://github.com/cnwhy/lib-qqwry)
+  
+IP地址解析
+
+- [Node-SSH](https://github.com/steelbrain/node-ssh)
+
+SSH连接
+
+- [Basic FTP](https://github.com/patrickjuchli/basic-ftp)
+
+FTP连接
+
+- [node-ldapjs](https://github.com/ldapjs/node-ldapjs)
+
+基于Node的LDAP协议程序包，包括服务器API、客户端API，可以用于创建基于LDAP协议的服务器，或者创建连接到指定LDAP服务器的客户端
+
+### CLI工具
+
+- [clime](https://github.com/vilic/clime)
+  
+一款易上手的CLI应用框架
+
+- [prettycli](https://github.com/siddharthkp/prettycli)
+
+控制台输出美化工具
+
+- [qoa](https://github.com/klaussinani/qoa)
+
+CLI用户交互
+
+### 图形
+
+- [sharp](https://github.com/lovell/sharp)
+
+图形库，可以用来做水印、验证码等的一个包
+
+### 数据/数据库
+
+- [elasticsearch.js](https://github.com/elastic/elasticsearch-js-legacy)
+
+用于连接ES的包
+
+### 爬虫
+
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+
+一个提供了chrome内核的包，爬虫只是一方面，还能用来做网站测试，浏览器能做的它几乎都能做
+
+### 性能
+
+- [Easy-Monitor](https://github.com/hyj1991/easy-monitor)
+
+企业级 Node.js 应用性能监控与线上故障定位解决方案
+
+- [v8-profiler](https://github.com/node-inspector/v8-profiler)
+
+v8分析器
+
+- [node-heapdump](https://github.com/bnoordhuis/node-heapdump)
+
+v8堆快照工具
+
+- [Benchmark.js](https://github.com/bestiejs/benchmark.js)
+
+一个强大的基准测试库，支持高分辨率计时器并返回具有统计意义的结果。 如jsPerf
+
+### Windows编程
+
+- [node-node-process-windows](https://github.com/bryphe/node-process-windows)
+
+windows进程管理
+
+### 其他
+
+- [TypeORM](https://github.com/typeorm/typeorm)
+
+一款基于TS的ORM框架
+
+- [decimal.js](https://github.com/MikeMcl/decimal.js)
+
+基于JS的数值精确计算的库
+
+- [nvm](https://github.com/nvm-sh/nvm)
+
+Node版本管理器，用于Linux
+
+- [nvm-windows](https://github.com/coreybutler/nvm-windows)
+
+Node版本管理器，用于Windows
+
+- [Espree](https://github.com/eslint/espree)
+
+兼容Esprima的JavaScript解析器
+
+## 其他汇总
+
+- [awesome-cli](https://github.com/Kikobeats/awesome-cli)
+
+汇总了关于开发CLI的工具、包的一个仓库
+
+- [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+
+对开发人员有用的定律、理论、原则和模式（中文版）
+
+- [hacker-laws](https://github.com/dwmkerr/hacker-laws)
+
+对开发人员有用的定律、理论、原则和模式（英文版）
+
+## 规范
+
+- [AlloyTeam CodeGuide](https://github.com/AlloyTeam/CodeGuide)
+
+腾讯 AlloyTeam 代码规范
+
+
