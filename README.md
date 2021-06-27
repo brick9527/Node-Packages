@@ -60,6 +60,16 @@ FTP连接
 
 基于Node的LDAP协议程序包，包括服务器API、客户端API，可以用于创建基于LDAP协议的服务器，或者创建连接到指定LDAP服务器的客户端
 
+- [Nodemailer](https://github.com/nodemailer/nodemailer)
+
+一个使用Node.js发送电子邮件的模块
+
+- [socket.io](https://github.com/socketio/socket.io)
+
+一个基于事件的实时双向通信模块
+
+
+
 ### CLI工具
 
 - [clime](https://github.com/vilic/clime)
@@ -79,6 +89,12 @@ CLI用户交互
 - [sharp](https://github.com/lovell/sharp)
 
 图形库，可以用来做水印、验证码等的一个包
+
+- [node-canvas](https://github.com/Automattic/node-canvas)
+
+`node-canvas`是一款基于[Cairo](https://www.cairographics.org/)的Node.js图形接口库。
+
+`node-canvas`是之前使用比较广的Node图形库之一，但是印象中`node-canvas`在跨平台方面以及大陆地区的依赖安装会有比较多的坑
 
 ### 数据/数据库
 
