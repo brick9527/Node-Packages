@@ -1,24 +1,29 @@
-
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # 目录
 
-- [框架](#%E6%A1%86%E6%9E%B6)
-  - [应用框架](#%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6)
-  - [游戏框架](#%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6)
-- [工具](#%E5%B7%A5%E5%85%B7)
-  - [网络](#%E7%BD%91%E7%BB%9C)
-  - [CLI](#cli)
-  - [图形化](#%E5%9B%BE%E5%BD%A2%E5%8C%96)
-  - [数据/数据库](#%E6%95%B0%E6%8D%AE%E6%95%B0%E6%8D%AE%E5%BA%93)
-  - [爬虫](#%E7%88%AC%E8%99%AB)
-  - [性能](#%E6%80%A7%E8%83%BD)
-  - [Windows编程](#windows%E7%BC%96%E7%A8%8B)
-  - [时间](#%E6%97%B6%E9%97%B4)
-  - [格式化](#%E6%A0%BC%E5%BC%8F%E5%8C%96)
-  - [其他](#%E5%85%B6%E4%BB%96)
-- [其他汇总](#%E5%85%B6%E4%BB%96%E6%B1%87%E6%80%BB)
-- [规范](#%E8%A7%84%E8%8C%83)
+- [Node-Packages](#node-packages)
+    - [框架](#%E6%A1%86%E6%9E%B6)
+        - [应用框架](#%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6)
+        - [游戏框架](#%E6%B8%B8%E6%88%8F%E6%A1%86%E6%9E%B6)
+    - [工具](#%E5%B7%A5%E5%85%B7)
+        - [网络](#%E7%BD%91%E7%BB%9C)
+        - [CLI](#cli)
+        - [图形化](#%E5%9B%BE%E5%BD%A2%E5%8C%96)
+        - [数据/数据库](#%E6%95%B0%E6%8D%AE%E6%95%B0%E6%8D%AE%E5%BA%93)
+        - [爬虫](#%E7%88%AC%E8%99%AB)
+        - [性能](#%E6%80%A7%E8%83%BD)
+        - [Windows编程](#windows%E7%BC%96%E7%A8%8B)
+        - [时间](#%E6%97%B6%E9%97%B4)
+        - [格式化](#%E6%A0%BC%E5%BC%8F%E5%8C%96)
+        - [其他](#%E5%85%B6%E4%BB%96)
+    - [其他汇总](#%E5%85%B6%E4%BB%96%E6%B1%87%E6%80%BB)
+    - [规范](#%E8%A7%84%E8%8C%83)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Node-Packages
+
 Node各类包、工具的汇总黄页
 
 ## 框架
@@ -69,8 +74,6 @@ FTP连接
 - [socket.io](https://github.com/socketio/socket.io)
 
 一个基于事件的实时双向通信模块
-
-
 
 ### CLI
 
@@ -134,7 +137,6 @@ v8堆快照工具
 
 windows进程管理
 
-
 ### 时间
 
 - [moment](https://github.com/moment/moment)
@@ -154,6 +156,7 @@ node.js的XML构建器，类似于java-xmlbuilder。新版本的xmlbuilder现在
 - [xmlbuilder2](https://github.com/oozcitak/xmlbuilder2)
 
 node.js的XML构建器。
+
 ### 其他
 
 - [TypeORM](https://github.com/typeorm/typeorm)
@@ -195,5 +198,3 @@ Node版本管理器，用于Windows
 - [AlloyTeam CodeGuide](https://github.com/AlloyTeam/CodeGuide)
 
 腾讯 AlloyTeam 代码规范
-
-
