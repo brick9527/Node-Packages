@@ -157,6 +157,24 @@ node.js的XML构建器，类似于java-xmlbuilder。新版本的xmlbuilder现在
 
 node.js的XML构建器。
 
+- [js-yaml](https://github.com/nodeca/js-yaml)
+
+一款用于序列化/反序列化`yml`/`yaml`文件的解析器。
+
+### Git相关
+
+- [commitlint](https://github.com/conventional-changelog/commitlint)
+
+能够检测`git commit`命令中`message`是否符合响应规范的工具
+
+- [luoxue-victor/commitlint](https://github.com/luoxue-victor/commitlint)
+
+基于`commitizen`,`commitlint`,`conventional-changelog-cli`,`husky`做的开箱即用的`Git commit`工具
+
+- [AlloyLint](https://github.com/AlloyTeam/AlloyLint)
+
+运行 eslint 的自动修复，但是保留最后修改人的信息的工具
+
 ### 其他
 
 - [TypeORM](https://github.com/typeorm/typeorm)
@@ -178,6 +196,14 @@ Node版本管理器，用于Windows
 - [Espree](https://github.com/eslint/espree)
 
 兼容Esprima的JavaScript解析器
+
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli)
+
+把svg转到终端控制台显示的CLI工具
+
+- [yapi](https://github.com/YMFE/yapi)
+
+YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 
 ## 其他汇总
 
