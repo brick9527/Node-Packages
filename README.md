@@ -87,7 +87,24 @@ FTP连接
 
 - [qoa](https://github.com/klaussinani/qoa)
 
-CLI用户交互
+- [cli-table](https://github.com/Automattic/cli-table)
+
+`cli-table` 是一个适用于 Node.js 的命令行表格渲染工具，能够在终端中生成美观的 Unicode 辅助表格。
+
+> 核心特性
+- 支持自定义表格边框字符，可灵活调整表格外观
+- 借助 `colors.js` 实现表头的颜色和背景样式美化
+- 提供列宽自定义、文本截断（基于预设宽度）、文本对齐（左/右/居中）及填充（左右）等功能
+- 支持多种表格类型：水平表格、垂直表格、交叉表格
+- 拥有简洁易用的 API，可通过 `push` 等方法便捷地添加行数据
+
+> 安装与使用
+
+通过 npm 安装：`npm install cli-table`。使用时需引入模块，实例化表格并配置选项（如表头、列宽等），添加数据后调用 `toString()` 方法即可在终端输出表格。
+
+该工具由 Automattic 维护，基于 MIT 许可证开源。
+
+---
 
 ### 图形化
 
