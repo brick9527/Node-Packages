@@ -192,6 +192,33 @@ node.js的XML构建器。
 
 运行 eslint 的自动修复，但是保留最后修改人的信息的工具
 
+### Web3.0
+
+- [binance-connector-js](https://github.com/binance/binance-connector-js)
+
+> binance-connector-js 仓库简介
+
+**仓库地址**：[https://github.com/binance/binance-connector-js](https://github.com/binance/binance-connector-js)  
+**核心定位**：Binance 官方推出的 TypeScript/JavaScript 连接器集合，专为对接 Binance 全品类 API 设计，替代旧版统一连接器（`@binance/connector`、`@binance/connector-typescript`），提供更灵活的模块化解决方案。
+
+
+> 核心特性
+
+1. **全业务场景覆盖**  
+   包含 24 个细分领域连接器，覆盖 Binance 核心服务：  
+   - 交易类：现货（`@binance/spot`）、币本位合约（`@binance/derivatives-trading-coin-futures`）、USDS-M 合约、期权、C2C、跟单交易等；  
+   - 资产类：钱包（`@binance/wallet`）、质押（`@binance/staking`）、简单赚（`@binance/simple-earn`）、加密贷款、VIP 贷款等；  
+   - 辅助类：NFT（`@binance/nft`）、支付（`@binance/pay`）、法币（`@binance/fiat`）、返佣（`@binance/rebate`）、子账户管理等。
+
+2. **开发友好设计**  
+   - 强类型支持：基于 TypeScript 构建，提供完整类型定义，减少接口调用错误；  
+   - 按需安装：各连接器独立发布为 npm 包，避免冗余依赖（如仅需现货功能可单独安装 `@binance/spot`）；  
+   - 迁移便捷：提供 `MIGRATION.md` 文档，指导从旧版统一连接器升级至模块化结构，旧版代码暂存于 `legacy` 分支。
+
+3. **实时与可靠**  
+   支持 WebSocket 实时行情与流服务，适配 Binance 测试网环境，满足高频交易、市场数据监控等场景需求。
+
+
 ### 其他
 
 - [TypeORM](https://github.com/typeorm/typeorm)
