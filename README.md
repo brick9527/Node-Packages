@@ -2,7 +2,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # 目录
 
-- [目录](#%E7%9B%AE%E5%BD%95)
 - [Node-Packages](#node-packages)
     - [框架](#%E6%A1%86%E6%9E%B6)
         - [应用框架](#%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6)
@@ -24,10 +23,6 @@
     - [规范](#%E8%A7%84%E8%8C%83)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# 目录
-
-<!-- toc -->
 
 # Node-Packages
 
@@ -208,7 +203,6 @@ node.js的XML构建器。
 **仓库地址**：[https://github.com/binance/binance-connector-js](https://github.com/binance/binance-connector-js)  
 **核心定位**：Binance 官方推出的 TypeScript/JavaScript 连接器集合，专为对接 Binance 全品类 API 设计，替代旧版统一连接器（`@binance/connector`、`@binance/connector-typescript`），提供更灵活的模块化解决方案。
 
-
 > 核心特性
 
 1. **全业务场景覆盖**  
@@ -224,6 +218,27 @@ node.js的XML构建器。
 
 3. **实时与可靠**  
    支持 WebSocket 实时行情与流服务，适配 Binance 测试网环境，满足高频交易、市场数据监控等场景需求。
+
+
+- [CCXT](https://github.com/ccxt/ccxt)
+
+> 简介
+
+CCXT 是一款功能强大的加密货币交易所交易库，支持 JavaScript、Python、PHP、Go 等多种编程语言，已整合全球 100 多个主流加密货币交易所的 API。无论是获取市场数据、开发算法交易策略、搭建交易机器人，还是进行跨交易所数据分析与套利，它都能通过统一且易用的接口轻松实现。
+
+作为开源免费的非托管工具，CCXT 提供完整的公共与私有 API 支持，数据标准化处理让跨平台操作更高效，且遵循 MIT 许可证，无隐藏费用，开发者可自由用于商业或开源项目。无论你是程序员、技术型交易者还是数据科学家，CCXT 都是连接加密货币市场的理想选择。
+
+- [dukascopy-node](https://github.com/Leo4815162342/dukascopy-node)
+  
+> 简介
+
+dukascopy-node 是一款强大的 Node.js 库与 CLI 工具，专为开发者和数据分析师打造，轻松获取免费的历史及实时市场价格数据！支持股票、加密货币、大宗商品、债券、外汇等多种资产类型，提供 CSV、JSON、数组等灵活输出格式，还可通过缓存、自定义批处理等功能优化数据获取效率。无论是用代码集成还是命令行快速调用，都能便捷获取精准的 tick 数据或 OHLC 数据，且兼容 TypeScript，文档详尽。持续更新维护，满足各类金融数据需求，是市场数据获取的高效解决方案！
+
+- [TQuant-Lab](https://github.com/tejtw/TQuant-Lab)
+
+> 简介
+
+TQuant-Lab 是一个专为交易策略开发者打造的宝藏仓库，汇集了从基础到进阶的全套实战资源。无论是 TQuant Lab 的安装配置、数据获取（含股票与期货数据）、回测工具（Zipline）使用，还是数据处理（Pipeline）、绩效分析（Pyfolio、Alphalens），都有详尽的操作教材手把手指导。更有 MACD、动量策略、期货策略等数十个实战范例供参考，搭配常见问题解答，帮你快速掌握交易策略开发全流程。无论你是新手入门还是进阶提升，这里都能为你的量化交易之路提供强力支持！
 
 
 ### 其他
